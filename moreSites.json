@@ -1,0 +1,7 @@
+{
+    "rule34.xxx": {
+        "aliases": ["r34"],
+        "endpoint": "/post/index.json?",
+        "random": true
+    }
+}
